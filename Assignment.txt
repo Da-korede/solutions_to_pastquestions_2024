@@ -11,7 +11,7 @@ struct Student {
 };
 
 // Define a class to contain functions (answers to each question)
-class U22CS1102 {
+class 1088 {
 public:
     // Question 2a. Function to check if a number is prime or not
     void check() {
@@ -257,7 +257,7 @@ public:
 };
 
 int main() {
-    U22CS1102 answers; // Create an instance of the class
+    U22CS1088 answers; // Create an instance of the class
 
     // Question 2
     answers.check();
